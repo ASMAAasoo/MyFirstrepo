@@ -1,5 +1,6 @@
- git clone https://github.com/your-username/MyFirstRepo.git
 What I have learned from this course :
+
+git clone https://github.com/your-username/MyFirstRepo.git
 During pathway programme I've learnt how to be consistent and disciplined , 
 because being late in submitting a milestone can decrease your score :
 time matters a lot . 
